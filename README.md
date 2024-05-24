@@ -1,2 +1,1 @@
-# akkanmore-docs
-AkkanMore Simulator Documentation
+# AkkanMore Simulator Documentation
